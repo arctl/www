@@ -6,6 +6,6 @@ main:
   - title: "Преимущества"
     url: /advantages/
   - title: "Тарифы"
-    url: /about/
+    url: /price/
   - title: "Контакты"
-    url: /about/
+    url: /contacts/
