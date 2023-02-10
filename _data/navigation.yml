@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Возможности"
     url: /posts/
-  - title: "Categories"
+  - title: "Наши клиенты"
     url: /categories/
-  - title: "Tags"
+  - title: "Преимущества"
     url: /tags/
-  - title: "About"
+  - title: "Тарифы"
+    url: /about/
+  - title: "Контакты"
     url: /about/
