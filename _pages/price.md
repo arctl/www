@@ -12,7 +12,7 @@ classes:
 | --- | :----: | :----: | :----: |
 | Место на диске | 25 ГБ | 50 ГБ | 100 ГБ |
 | Количество пользователей | 25 | 50 | 100 |
-| ### Цена |
+| **Цена** |
 | 1 месяц | р.18 000 | р.36 000 | р.52 500|
 | 3 месяца | р.52 200 | р.104 850 | р.153 000 |
 | 6 месяцев | р.103 500 | р.208 800 | р.305 100 |
@@ -23,7 +23,7 @@ classes:
 | Контрагенты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Договоры (+ согласование) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Дела | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Заявка |
+| **Заявка** |
 | Настраиваемые шаблоны заявок | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Создание по шаблону, заготовке или произвольный вариант | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Несколько перевозок по заявке | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -32,7 +32,7 @@ classes:
 | Счет на оплату | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Расчет планируемой доходности | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Органичение на прием заявки по дебиторке | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
-| Отчет по перевозкам |
+| **Отчет по перевозкам** |
 | Фактические суммы для клиента | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Предварительные расходы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Расчет предварительной доходности | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -45,7 +45,7 @@ classes:
 | Поступления от клиентов | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Счета поставщиков | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Оплаты поставщикам (платежный календарь) | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Диспетчирование |
+| **Диспетчирование** |
 | Диспетчирование автоперевозок | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Состояние контейнеров по станции | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Транспортная накладная | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -53,17 +53,17 @@ classes:
 | Доверенность водителю | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Путевой лист | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Диспетчирование жд. перевозок | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Личный кабинет |
+| **Личный кабинет** |
 | Заявки / перевозки в режиме реального времени | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Просмотр счетов и состояния оплаты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка отчетных документов (акты, счета:white_check_mark:фактуры, УПД) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка сканов сопутствующих документов по перевозке | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Депо |
+| **Депо** |
 | Прием / выдача контейнеров | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
 | Биллинг хранения | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
 | Рапорт в формате CODECO | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
 | Личный кабинет | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
-| Аналитика |
+| **Аналитика** |
 | Финансовый отчет | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Дебиторская задолженность | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | ABC — анализ | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -73,7 +73,7 @@ classes:
 | Заготовка | :white_check_mark: | Скоро | Скоро  |
 | Накладная | :white_check_mark: | :white_check_mark: | Скоро  |
 | Сверка с ЕЛС | :white_check_mark: | :white_check_mark: | Скоро  |
-| Интеграция с 1C |
+| **Интеграция с 1C** |
 | Загрузка счетов покупателей | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка реализаций (акты, УПД) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка поступлений (акты, УПД) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -83,23 +83,23 @@ classes:
 | Выгрузка списаний с р/с (постав.) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Выгрузка счетов от поставщиков | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Выгрузка поступлений (акты, УПД) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Интеграция с ДИАДОК |
+| **Интеграция с ДИАДОК** |
 | Выгрузка УПД клиентов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Выгрузка актов клиентов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Выгрузка счетов-фактур клиентов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Выгрузка неформализованных документов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Пакетная выгрузка | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Дислокации |
+| **Дислокации** |
 | Загрузка операций с транс. единицами | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка отправок | :white_check_mark: | Скоро | Скоро |
-| Дополнительный функционал |
+| **Дополнительный функционал** |
 | Хранение вложений | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Отправка документов в формате PDF по эл. почте | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Формирование документов с факсимиле | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Безопасность |
+| **Безопасность** |
 | Двухэтапная аутентификация | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Уведомление о входе (на почту) | :white_check_mark: | Скоро | Скоро |
-| Инсталляция |
+| **Инсталляция** |
 | Стоимость | р.67 500 | р.135 000 | р.196 875 |
 | Настройка системы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Обучение администратора | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
