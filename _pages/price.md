@@ -3,7 +3,7 @@ title: "Тарифы"
 permalink: /price/
 layout: splash
 classes:
-  :white_check_mark: landing
+  - landing
 ---
 
 
