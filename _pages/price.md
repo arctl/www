@@ -37,10 +37,10 @@ classes:
 | Фактические суммы для клиента | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Предварительные расходы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Расчет предварительной доходности | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Акты / счета:white_check_mark:фактуры поставщиков | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Акты / счета-фактуры поставщиков | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Фактические расходы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Счета на доплату | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Акт / счет:white_check_mark:фактура клиенту | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Акт / счет-фактура клиенту | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Расчет фактической доходности | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Платежи |
 | Поступления от клиентов | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -87,7 +87,7 @@ classes:
 | Интеграция с ДИАДОК |
 | Выгрузка УПД клиентов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Выгрузка актов клиентов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Выгрузка счетов:white_check_mark:фактур клиентов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Выгрузка счетов-фактур клиентов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Выгрузка неформализованных документов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Пакетная выгрузка | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Дислокации |
