@@ -1,16 +1,16 @@
-:white_check_mark::white_check_mark::white_check_mark:
+---
 title: "Тарифы"
 permalink: /price/
 layout: splash
 classes:
   :white_check_mark: landing
-:white_check_mark::white_check_mark::white_check_mark:
+---
 
 
 # Тарифы
 
 | Опция | Проект | Компания | Группа |
-| :white_check_mark::white_check_mark::white_check_mark: | :white_check_mark::white_check_mark::white_check_mark: | :white_check_mark::white_check_mark::white_check_mark: | :white_check_mark::white_check_mark::white_check_mark: |
+| --- | --- | --- | --- |
 | Место на диске | 25 ГБ | 50 ГБ | 100 ГБ |
 | Количество пользователей | 25 | 50 | 100 |
 | Цена |
