@@ -17,7 +17,7 @@ classes:
 | 3 месяца | р.52 200 | р.104 850 | р.153 000 |
 | 6 месяцев | р.103 500 | р.208 800 | р.305 100 |
 | 1 год | р.205 200 | р.415 800| р.608 400 |
-| CRM |
+| **CRM** |
 | Лиды | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Контакты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Контрагенты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
