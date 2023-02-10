@@ -2,9 +2,9 @@ main:
   - title: "Возможности"
     url: /opportunities/
   - title: "Наши клиенты"
-    url: /categories/
+    url: /clients/
   - title: "Преимущества"
-    url: /tags/
+    url: /advantages/
   - title: "Тарифы"
     url: /about/
   - title: "Контакты"
