@@ -8,6 +8,26 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+//размер подписи 2 строки сайта
+element.style {
+}
+.site-subtitle {
+    display: block;
+    font-size: .400em;
+}
+
+//Размер логотипа
+element.style {
+}
+.greedy-nav img {
+    -webkit-transition: none;
+    transition: none;
+}
+.site-logo img {
+    max-height: 3rem;
+}
+
+//Размер баннера на главной странице
 element.style {
     background-color: #5e616c;
     background-image: url(/www/assets/images/hands1.jpg);
@@ -29,6 +49,8 @@ element.style {
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
 }
+
+//размер надписи на баннере
 element.style {
 }
 .page__hero--overlay .page__title {
