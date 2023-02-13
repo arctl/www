@@ -66,9 +66,12 @@ footer:
       url: "https://t.me/arctl"
     - label: "Документация"
       icon: "fa fa-question-circle"
-      url: "https://arctl.github.io/docs/" <br />
+      url: "https://arctl.github.io/docs/"
     - label: "Конфиденциальность"
       icon: "fa fa-lock"
+      url: "https://arctl.github.io/www/privacy"
+    - label: "Политика доработок"
+      icon: "fa fa-terminal"
       url: "https://arctl.github.io/www/privacy"
 defaults:
   # _posts
