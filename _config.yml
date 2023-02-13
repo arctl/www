@@ -53,7 +53,7 @@ author:
       icon: "fas fa-check"
       url: "https://arctl.github.io/www/destiny/"
     - label: "Кто наши клиенты"
-      icon: "fas fa-fw fa-link"
+      icon: "fa fa-user-circle"
       url: "https://arctl.github.io/www/clients/"
     - label: "Запрос на подключение"
       icon: "fas fa-edit"
