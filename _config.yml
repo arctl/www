@@ -62,7 +62,7 @@ author:
       url: "https://arctl.github.io/www/clients/"
     - label: "Запрос на подключение"
       icon: "fas fa-edit"
-      url: "https://arctl.ru/contact-us/?theme=Запрос%20на%20подключение"
+      url: "https://arctl.github.io/www/buy/"
 
 footer:
   links:
