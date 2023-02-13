@@ -73,6 +73,9 @@ footer:
     - label: "Политика доработок"
       icon: "fa fa-cog"
       url: "https://arctl.github.io/www/policy-development"
+    - label: "Контакты"
+      icon: "fa fa-phone"
+      url: "https://arctl.github.io/www/contacts/"
 defaults:
   # _posts
   - scope:
