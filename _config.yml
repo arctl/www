@@ -71,7 +71,7 @@ footer:
       icon: "fa fa-lock"
       url: "https://arctl.github.io/www/privacy"
     - label: "Политика доработок"
-      icon: "fa fa-terminal"
+      icon: "fa fa-cog"
       url: "https://arctl.github.io/www/policy-development"
 defaults:
   # _posts
