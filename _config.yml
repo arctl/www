@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 
-title                    : "ARCTL.ONLINE"
+title                    : "A R C T L. O N L I N E"
 title_separator          : "-"
 subtitle                 : "АРК: Транспортная логистика Online"
 name                     : &name "АРК: Транспортная логистика Online"
@@ -46,12 +46,12 @@ plugins:
 
 author:
   links:
-    - label: "История возниконовения"
+    - label: "Возможности"
       icon: "fas fa-book"
-      url: "https://arctl.github.io/www/history/"
-    - label: "Наше предназначение"
+      url: "https://arctl.github.io/www/opportunities/"
+    - label: "Преимущества"
       icon: "fas fa-check"
-      url: "https://arctl.github.io/www/destiny/"
+      url: "https://arctl.github.io/www/advantages/"
     - label: "Кто наши клиенты"
       icon: "fa fa-user-circle"
       url: "https://arctl.github.io/www/clients/"
@@ -61,11 +61,11 @@ author:
 
 footer:
   links:
-    - label: "telegramm"
+    - label: "telegram"
       icon: "fab fa-telegram"
       url: "https://t.me/arctl"
     - label: "Документация"
-      icon: "fa fa-bookmark"
+      icon: "fa fa-question-circle"
       url: "https://arctl.github.io/docs/"
 defaults:
   # _posts
