@@ -67,6 +67,9 @@ footer:
     - label: "Документация"
       icon: "fa fa-question-circle"
       url: "https://arctl.github.io/docs/"
+    - label: "Конфиденциальность"
+      icon: "fa fa-lock"
+      url: "https://arctl.github.io/www/privacy"
 defaults:
   # _posts
   - scope:
