@@ -48,10 +48,10 @@ plugins:
 author:
   links:
     - label: "История возниконовения"
-      icon: "fas fa-fw fa-book"
+      icon: "fas fa-book"
       url: "https://arctl.github.io/www/history/"
     - label: "Наше предназначение"
-      icon: "fas fa-fw fa-check"
+      icon: "fas fa-check"
       url: "https://arctl.github.io/www/destiny/"
     - label: "Кто наши клиенты"
       icon: "fas fa-fw fa-link"
