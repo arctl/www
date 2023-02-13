@@ -1,9 +1,11 @@
 ---
 title: "Тарифы"
 permalink: /price/
-layout: splash
-classes:
-  - landing
+sitemap: true
+author_profile: true
+##layout: splash
+##classes:
+##  - landing
 ---
 
 ## Тарифы
@@ -41,7 +43,7 @@ classes:
 | Счета на доплату | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Акт / счет-фактура клиенту | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Расчет фактической доходности | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Платежи |
+| **Платежи** |
 | Поступления от клиентов | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Счета поставщиков | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Оплаты поставщикам (платежный календарь) | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
