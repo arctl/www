@@ -56,3 +56,15 @@ element.style {
 .page__hero--overlay .page__title {
     font-size: 0em;
 }
+
+//редактор подвала страницы
+element.style {
+}
+.page__footer footer {
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0em;
+    max-width: 100%;
+    padding: 0 1em 1em;
+}
