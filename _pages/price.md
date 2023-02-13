@@ -6,7 +6,7 @@ layout: splash
 ##classes:
 ##  - landing
 ---
-<div align="center">
+
 | Опция | Проект | Компания | Группа |
 | --- | :----: | :----: | :----: |
 | Место на диске | 25 ГБ | 50 ГБ | 100 ГБ |
@@ -104,4 +104,3 @@ layout: splash
 | Обучение администратора | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Обучение пользователей | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Доступ к системе на 3 месяца | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-</div>
