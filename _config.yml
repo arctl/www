@@ -55,7 +55,7 @@ author:
     - label: "Кто наши клиенты"
       icon: "fa fa-user-circle"
       url: "https://arctl.github.io/www/clients/"
-    - label: "Запрос на подключение"
+    - label: "Обращение"
       icon: "fas fa-edit"
       url: "https://arctl.github.io/www/order/"
 
