@@ -50,8 +50,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Рейл Консалт"
-  bio    : "Свобода для дела"
+
   location : "Россия, Екатеринбург"
   links:
     - label: "История возниконовения"
