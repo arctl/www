@@ -46,13 +46,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  location : "Россия, Екатеринбург"
   links:
     - label: "История возниконовения"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-book"
       url: "https://arctl.github.io/www/history/"
     - label: "Наше предназначение"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-check"
       url: "https://arctl.github.io/www/destiny/"
     - label: "Кто наши клиенты"
       icon: "fas fa-fw fa-link"
@@ -65,9 +64,9 @@ footer:
   links:
     - label: "telegramm"
       icon: "fab fa-telegram"
-      url: ""
+      url: "https://t.me/arctl"
     - label: "Документация"
-      icon: "fab fa-telegram"
+      icon: "fab fa-question-circle"
       url: "https://arctl.github.io/docs/"
 defaults:
   # _posts
