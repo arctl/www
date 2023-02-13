@@ -65,7 +65,7 @@ footer:
       icon: "fab fa-telegram"
       url: "https://t.me/arctl"
     - label: "Документация"
-      icon: "fa fa-sticky-note"
+      icon: "fa fa-bookmark-o"
       url: "https://arctl.github.io/docs/"
 defaults:
   # _posts
