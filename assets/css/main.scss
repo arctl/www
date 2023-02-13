@@ -1,0 +1,36 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+element.style {
+    background-color: #5e616c;
+    background-image: url(/www/assets/images/hands1.jpg);
+}
+.page__hero--overlay {
+    position: relative;
+    margin-bottom: 2em;
+    padding: 15em 0;
+    padding-top: 3em;
+    padding-right: 0px;
+    padding-bottom: 3em;
+    padding-left: 0px;
+    clear: both;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-animation: intro 0.3s both;
+    animation: intro 0.3s both;
+    -webkit-animation-delay: 0.25s;
+    animation-delay: 0.25s;
+}
+element.style {
+}
+.page__hero--overlay .page__title {
+    font-size: 0em;
+}
