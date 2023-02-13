@@ -72,7 +72,7 @@ footer:
       url: "https://arctl.github.io/www/privacy"
     - label: "Политика доработок"
       icon: "fa fa-terminal"
-      url: "https://arctl.github.io/www/privacy"
+      url: "https://arctl.github.io/www/policy-development"
 defaults:
   # _posts
   - scope:
