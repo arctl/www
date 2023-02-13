@@ -60,6 +60,23 @@ element.style {
 //редактор подвала страницы
 element.style {
 }
+.page__footer {
+    clear: both;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    margin-top: 0em;
+    color: #646769;
+    -webkit-animation: intro 0.3s both;
+    animation: intro 0.3s both;
+    -webkit-animation-delay: 0.45s;
+    animation-delay: 0.45s;
+    background-color: #f2f3f3;
+}
+
+element.style {
+}
 .page__footer footer {
     clear: both;
     margin-left: auto;
