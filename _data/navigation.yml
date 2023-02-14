@@ -1,7 +1,7 @@
 main:
   - title: "Возможности"
     url: /opportunities/
-  - title: "Наши клиенты"
+  - title: "Кто наши клиенты"
     url: /clients/
   - title: "Преимущества"
     url: /advantages/
