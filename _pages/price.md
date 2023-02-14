@@ -6,7 +6,7 @@ layout: splash
 ##classes:
 ##  - landing
 ---
-# Тарифы 
+# Тарифы
 
 | Опция | Проект | Компания | Группа |
 | --- | :----: | :----: | :----: |
@@ -69,7 +69,7 @@ layout: splash
 | ABC — анализ | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Отчеты по запросу | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
 | Редактор отчетов | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
-| Интеграция с ЭТРАН |
+| **Интеграция с ЭТРАН** |
 | Заготовка | :white_check_mark: | Скоро | Скоро  |
 | Накладная | :white_check_mark: | :white_check_mark: | Скоро  |
 | Сверка с ЕЛС | :white_check_mark: | :white_check_mark: | Скоро  |
