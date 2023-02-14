@@ -5,7 +5,7 @@ title                    : "ARCTL.ONLINE"
 title_separator          : "-"
 subtitle                 : "АРК: Транспортная логистика Online"
 name                     : &name "АРК: Транспортная логистика Online"
-logo                     : "assets/images/LogoARCрастр.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "assets/images/site-logo-arc-32-321.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 email:
 description              : "Специализированная информационная система комплексного управления транспортно-логистическими операциями."
 minimal_mistakes_skin    : default
