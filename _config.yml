@@ -35,6 +35,9 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+jekyll_metrics:
+  yandex_metrica_id: 50522677
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -60,8 +63,6 @@ author:
       url: "https://arctl.github.io/www/order/"
 
 footer:
-  jekyll_metrics:
-    yandex_metrica_id: 50522677
   links:
     - label: "telegram"
       icon: "fab fa-telegram"
