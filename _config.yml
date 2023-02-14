@@ -35,9 +35,6 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-jekyll_metrics:
-  yandex_metrica_id: 50522677
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -47,6 +44,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jeykill-metrics
+
+jekyll_metrics:
+  yandex_metrica_id: 50522677
+
 author:
   links:
     - label: "Возможности"
