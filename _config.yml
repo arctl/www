@@ -46,6 +46,7 @@ plugins:
   - jekyll-metrics
 
 jekyll_metrics:
+  template: _includes/metrics.html.liquid
   yandex_metrica_id: 50522677
 
 author:
