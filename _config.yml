@@ -43,7 +43,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jeykill-metrics
+  - jekyll-metrics
 
 jekyll_metrics:
   yandex_metrica_id: 50522677
