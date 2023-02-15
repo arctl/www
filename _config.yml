@@ -45,10 +45,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-metrics
 
-jekyll_metrics:
-  template: _includes/metrics.html.liquid
-  yandex_metrica_id: 50522677
-
 author:
   links:
     - label: "Возможности"
