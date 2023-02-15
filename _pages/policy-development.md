@@ -2,7 +2,7 @@
 title: "Политика доработок"
 sitemap: true
 permalink: /policy-development/
-author_profile: true
+author_profile: false
 layout: splash
 ---
 # Политика доработок

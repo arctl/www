@@ -2,7 +2,7 @@
 title: "Преимущества"
 sitemap: true
 permalink: /advantages/
-author_profile: true
+author_profile: false
 ---
 ###### Web-технология (облачное решение) – *работа 24х7*:
 
