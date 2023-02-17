@@ -2,7 +2,7 @@
 title: "Тарифы"
 permalink: /price/
 author_profile: false
-layout: splash
+#layout: splash
 ##classes:
 ##  - landing
 ---
