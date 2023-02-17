@@ -2,7 +2,7 @@
 title: "Возможности"
 sitemap: true
 permalink: /opportunities/
-author_profile: false
+author_profile: true
 ---
 
 ### ВСЕ ВАШИ КОМПАНИИ В ОДНОЙ СИСТЕМЕ

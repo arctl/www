@@ -2,7 +2,7 @@
 title: "Условия и политика конфиденциальности"
 sitemap: true
 permalink: /privacy/
-author_profile: false
+author_profile: true
 layout: splash
 ---
 
