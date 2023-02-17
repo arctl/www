@@ -57,7 +57,7 @@ author:
       icon: "fas fa-check"
       url: "https://arctl.github.io/www/advantages/"
     - label: "Тарифы"
-      icon: "fab fa-sliders"
+      icon: "fa fa-sliders"
       url: "https://arctl.github.io/www/price/"
     - label: "Обращение"
       icon: "fas fa-edit"
