@@ -5,6 +5,8 @@ permalink: /sitemap/
 author_profile: false
 ---
 
+[XML версия]({{ "sitemap.xml" | relative_url }})
+
 <h2>Страницы</h2>
 {% for post in site.pages %}
   {% include archive-single.html %}
