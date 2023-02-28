@@ -55,7 +55,7 @@ author_profile: true
 | **Личный кабинет** |
 | Заявки / перевозки в режиме реального времени | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Просмотр счетов и состояния оплаты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Загрузка отчетных документов (акты, счета:white_check_mark:фактуры, УПД) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Загрузка отчетных документов (акты, счета-фактуры, УПД) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка сканов сопутствующих документов по перевозке | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Депо** |
 | Прием / выдача контейнеров | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
