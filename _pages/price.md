@@ -45,11 +45,11 @@ author_profile: true
 | Счета поставщиков | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Оплаты поставщикам (платежный календарь) | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Диспетчирование** |
-| Диспетчирование автоперевозок | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Диспетчирование автоперевозок | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Состояние контейнеров по станции | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Транспортная накладная | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Транспортная накладная | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Экспедиторская расписка | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Доверенность водителю | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Доверенность водителю | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Путевой лист | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Диспетчирование жд. перевозок | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Личный кабинет** |
@@ -65,7 +65,7 @@ author_profile: true
 | **Аналитика** |
 | Финансовый отчет | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Дебиторская задолженность | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| ABC — анализ | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| ABC-анализ | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Отчеты по запросу | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
 | Редактор отчетов | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
 | **Интеграция с ЭТРАН** |
@@ -76,7 +76,7 @@ author_profile: true
 | Загрузка счетов покупателей | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка реализаций (акты, УПД) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка поступлений (акты, УПД) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Загрузка отчетов комитентам (экс.) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Загрузка отчетов комитентам (отчет экс.) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка платежных поручений (постав.) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Выгрузка поступлений на р/с (клиент.) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Выгрузка списаний с р/с (постав.) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
