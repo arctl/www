@@ -11,7 +11,13 @@ author_profile: true
 | --- | :----: | :----: | :----: |
 | Место на диске | 25 ГБ | 50 ГБ | 100 ГБ |
 | Количество пользователей | 25 | 50 | 100 |
-| **Цена** |
+| **Цена за первые 3 месяца** |
+| Стоимость | 67.500  | 135.000  | 196.875  |
+| Настройка системы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Обучение администратора | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Обучение пользователей | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Доступ к системе на 3 месяца | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| **Цена, начиная с 4 месяца** |
 | 1 месяц | 18.000    | 36.000   | 52.500  |
 | 3 месяца | 52.200   | 104.850  | 153.000  |
 | 6 месяцев | 103.500  | 208.800  | 305.100  |
@@ -98,9 +104,3 @@ author_profile: true
 | **Безопасность** |
 | Двухэтапная аутентификация | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Уведомление о входе (на почту) | :white_check_mark: | Скоро | Скоро |
-| **Инсталляция** |
-| Стоимость | 67.500  | 135.000  | 196.875  |
-| Настройка системы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Обучение администратора | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Обучение пользователей | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Доступ к системе на 3 месяца | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
