@@ -11,17 +11,18 @@ author_profile: true
 | --- | :----: | :----: | :----: |
 | Место на диске | 25 ГБ | 50 ГБ | 100 ГБ |
 | Количество пользователей | 25 | 50 | 100 |
-| **Цена за первые 3 месяца** |
-| Стоимость | 67.500  | 135.000  | 196.875  |
+| **Цена в первые 3 месяца** |
+| Абонплата, руб./мес. | 22.500  | 45.000  | 65.625  |
 | Настройка системы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Обучение администратора | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Обучение пользователей | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Доступ к системе на 3 месяца | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| **Цена, начиная с 4 месяца** |
-| 1 месяц | 18.000    | 36.000   | 52.500  |
-| 3 месяца | 52.200   | 104.850  | 153.000  |
-| 6 месяцев | 103.500  | 208.800  | 305.100  |
-| 1 год | 205.200  | 415.800  | 608.400  |
+| **Цена, начиная с 4-го месяца** |
+| Абонплата, руб./мес. | 18.000    | 36.000   | 52.500  |
+| **Цена при оплате за несколько месяцев** |
+| 3 месяца, руб./мес. | 17.400   | 34.950  | 51.000  |
+| 6 месяцев, руб./мес. | 17.250  | 34.800  | 50.850  |
+| 1 год, руб./мес. | 17.100  | 34.650  | 50.700  |
 | **CRM** |
 | Лиды | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Контакты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -102,5 +103,5 @@ author_profile: true
 | Отправка документов в формате PDF по эл. почте | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Формирование документов с факсимиле | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Безопасность** |
-| Двухэтапная аутентификация | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Двухэтапная аутентификация | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Уведомление о входе (на почту) | :white_check_mark: | Скоро | Скоро |
