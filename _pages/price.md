@@ -31,7 +31,7 @@ author_profile: true
 | Плановые расходы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Счет на оплату | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Расчет планируемой доходности | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Органичение на прием заявки по дебиторке | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
+| Ограничение на прием заявки при дебиторке | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
 | **Отчет по перевозкам** |
 | Фактические суммы для клиента | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Предварительные расходы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
