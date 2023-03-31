@@ -10,7 +10,7 @@ author_profile: true
 | Опция | Старт | Проект | Компания | Группа |
 | --- | :----: | :----: | :----: | :----: |
 | **Стоимость** |
-| Внедрение (первые 3 месяца), руб./мес. | 15.000 | 22.500  | 45.000  | 65.625  |
+| **Внедрение** (первые 3 месяца), руб./мес. | 15.000 | 22.500  | 45.000  | 65.625  |
 | - настройка системы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | - обучение администратора | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | - обучение пользователей | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
