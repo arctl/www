@@ -9,16 +9,14 @@ author_profile: true
 
 | Опция | Старт | Проект | Компания | Группа |
 | --- | :----: | :----: | :----: | :----: |
+| **Стоимость** |
+| Внедрение (первые 3 месяца), руб./мес. | 15.000 | 22.500  | 45.000  | 65.625  |
+| - настройка системы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| - обучение администратора | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| - обучение пользователей | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| **Абонплата** (с 4-го месяца), руб./мес. | **12.000** | **18.000**  | **36.000** | **52.500**  |
 | Место на диске | 10 Гб | 25 ГБ | 50 ГБ | 100 ГБ |
 | Количество пользователей | 10 | 25 | 50 | 100 |
-| **Внедрение** |
-| Абонплата, руб./мес. | 15.000 | 22.500  | 45.000  | 65.625  |
-| Настройка системы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Обучение администратора | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Обучение пользователей | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Доступ к системе **на 3 месяца** | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| **Стоимость, начиная с 4-го месяца** |
-| Абонплата, руб./мес. | 12.000 | 18.000    | 36.000   | 52.500  |
 | **CRM** |
 | Лиды | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Контакты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
