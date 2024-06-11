@@ -37,11 +37,11 @@ include:
 
 # Plugins (previously gems:)
 plugins:
+  - jemoji
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
   - jekyll-metrics
 
@@ -71,6 +71,9 @@ author:
     - label: "Документация"
       icon: "fa fa-question-circle"
       url: "https://arctl.github.io/docs/"
+    - label: "Контакты"
+      icon: "fa fa-phone"
+      url: "https://arctl.github.io/www/contacts/"      
 
 
 footer:
