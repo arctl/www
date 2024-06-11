@@ -57,8 +57,11 @@ author:
       icon: "fas fa-check"
       url: "https://arctl.github.io/www/advantages/"
     - label: "Тарифы"
-      icon: "fa fa-bars"
+      icon: "fa fa-rub"
       url: "https://arctl.github.io/www/price/"
+    - label: "Купить"
+      icon: "fa fa-shopping-cart"
+      url: "https://arctl.github.io/www/buy/"      
     - label: "Обращение"
       icon: "fas fa-edit"
       url: "https://arctl.github.io/www/order/"
@@ -67,7 +70,7 @@ author:
       url: "https://t.me/arctl"
     - label: "Документация"
       icon: "fa fa-question-circle"
-      url: "https://arctl.github.io/docs/"     
+      url: "https://arctl.github.io/docs/"
 
 
 footer:
@@ -87,6 +90,7 @@ footer:
     - label: "Контакты"
       icon: "fa fa-phone"
       url: "https://arctl.github.io/www/contacts/"
+
 defaults:
   # _posts
   - scope:

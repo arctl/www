@@ -7,5 +7,5 @@ main:
     url: /advantages/
   - title: "Тарифы"
     url: /price/
-  - title: "Обращение"
-    url: /order/
+  - title: "Купить"
+    url: /buy/
