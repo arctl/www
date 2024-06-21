@@ -3,6 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
+permalink: /landing/
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.30"
