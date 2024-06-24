@@ -13,8 +13,14 @@ search: false
     position: fixed;
     top: 0;
     width: 100%;
+    height: 110px; // Высота
 }
-    
+
+// Тело
+body {
+    padding: 110px 0 0;  // Отступ на высоту masthead
+}
+
 //размер подписи 2 строки сайта
 .site-subtitle {
     display: block;
