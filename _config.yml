@@ -89,7 +89,7 @@ footer:
       url: "https://arctl.github.io/www/privacy"
     - label: "Политика доработок"
       icon: "fa fa-cog"
-      url: "https://arctl.github.io/www/policy-development"
+      url: "https://arctl.github.io/www/develop"
     - label: "Контакты"
       icon: "fa fa-phone"
       url: "https://arctl.github.io/www/contacts/"

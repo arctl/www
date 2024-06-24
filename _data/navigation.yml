@@ -1,10 +1,10 @@
 main:
   - title: "Возможности"
-    url: /opportunities/
+    url: /#возможности/
   - title: "Кто наши клиенты"
     url: /#кто-наши-клиенты
   - title: "Преимущества"
-    url: /advantages/
+    url: /#преимущества/
   - title: "Тарифы"
     url: /price/
   - title: "Купить"

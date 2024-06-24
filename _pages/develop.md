@@ -1,7 +1,7 @@
 ---
 title: "Политика доработок"
 sitemap: true
-permalink: /policy-development/
+permalink: /develop/
 author_profile: ture
 layout: splash
 ---

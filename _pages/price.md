@@ -2,10 +2,8 @@
 title: "Тарифы"
 permalink: /price/
 author_profile: true
-#layout: splash
-##classes:
-##  - landing
 ---
+
 
 | Опция | Старт | Проект | Компания | Группа |
 | --- | :----: | :----: | :----: | :----: |
