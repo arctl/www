@@ -18,17 +18,18 @@ search: false
     height: 110px; // Высота
     //border-bottom: 1px solid #f2f3f3;
     //background: #555;
-    color: #f1f1f1;    
+    //color: #f1f1f1;    
 }
 
 // Тело
-//body {
+body {
 //    padding: 110px 0 0;  // Отступ на высоту masthead
-//}
-
-.site { 
     padding-top: 110px; // Отступ на высоту masthead
 }
+
+//.site { 
+//    padding-top: 110px; // Отступ на высоту masthead
+//}
 
 //размер подписи 2 строки сайта
 .site-subtitle {
