@@ -7,6 +7,14 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+// Фиксированное меню
+.masthead {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+    
 //размер подписи 2 строки сайта
 .site-subtitle {
     display: block;
@@ -65,18 +73,3 @@ element.style {
     animation-delay: 0.45s;
     background-color: #f2f3f3;
 }
-
-.masthead {
-    padding: 10px 16px;
-    }
-.content {
-    padding: 16px;
-    }
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%
-    }
-.sticky + .content {
-    padding-top: 102px;
-    }
