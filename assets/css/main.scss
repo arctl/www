@@ -10,12 +10,15 @@ search: false
 
 // Фиксированное меню
 // Пример: https://github.com/mmistakes/minimal-mistakes/issues/490
+// https://translated.turbopages.org/proxy_u/en-ru.ru.996fe2e6-66790356-55c6338a-74722d776562/https/www.w3schools.com/HOWTO/howto_js_sticky_header.asp
 .masthead {
     position: fixed;
     top: 0;
     width: 100%;
     height: 110px; // Высота
-    border-bottom: 1px solid #f2f3f3;
+    //border-bottom: 1px solid #f2f3f3;
+    //background: #555;
+    color: #f1f1f1;    
 }
 
 // Тело
