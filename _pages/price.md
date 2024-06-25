@@ -21,6 +21,8 @@ author_profile: true
 | Контрагенты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Договоры (+ согласование) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Дела | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Авто заполнение контрагентов ИНН, наименованию | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Авто заполнение адресов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Заявка** |
 | Настраиваемые шаблоны заявок | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Создание по шаблону, заготовке или произвольный вариант | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -68,6 +70,7 @@ author_profile: true
 | ABC-анализ | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Отчеты по запросу | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
 | Редактор отчетов | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
+| Аналитика в Excel (куб OLAP) | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро |
 | **Интеграция с ЭТРАН** |
 | Заготовка | :white_check_mark: | :white_check_mark: | Скоро | Скоро  |
 | Накладная | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро  |
@@ -88,6 +91,9 @@ author_profile: true
 | Выгрузка счетов-фактур клиентов | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Выгрузка неформализованных документов | :white_check_mark:| :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Пакетная выгрузка | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| **Интеграция с Контур.Логистика** |
+| Формирование электронной транспортной накладной | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Формирование электронных путевых листов | :white_check_mark: | :white_check_mark: | Скоро | Скоро |
 | **Дислокации** |
 | Загрузка операций с транс. единицами | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка отправок | :white_check_mark: | :white_check_mark: | Скоро | Скоро |
