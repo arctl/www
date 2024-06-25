@@ -9,10 +9,12 @@
 или пишите [нам](https://arctl.ru/order/) и мы поможем Вам разобраться.
 
 При написании документации использованы:
+
 - [github](https://github.com/)
 - [jekyllrb.com](https://jekyllrb.com/)
 - [mademistakes.com](https://mademistakes.com/)
-- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+- [mmistakes.github.io](https://mmistakes.github.io/minimal-mistakes/) 
+- [github.com/mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
 - [pages.github](https://pages.github.com/)
 - [atom](https://github.com/atom/atom)
 - [gitHub desktop](https://desktop.github.com/)

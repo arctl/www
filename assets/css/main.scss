@@ -9,8 +9,7 @@ search: false
 
 
 // Фиксированное меню
-// https://www.w3schools.com/howto/howto_js_sticky_header.asp
-// Пример: https://github.com/mmistakes/minimal-mistakes/issues/490
+// https://github.com/mmistakes/minimal-mistakes/issues/490
 // https://translated.turbopages.org/proxy_u/en-ru.ru.996fe2e6-66790356-55c6338a-74722d776562/https/www.w3schools.com/HOWTO/howto_js_sticky_header.asp
 // https://www.demo2s.com/html-css/css-fixed-navigation-inside-absolute-main-element.html
 .masthead {
@@ -23,26 +22,13 @@ search: false
 
 // Тело
 body {
-//    padding: 110px 0 0;  // Отступ на высоту masthead
     padding-top: 110px; // Отступ на высоту masthead
 }
 
-//.site { 
+// Ссылка на заголовок
+//.header-link {
 //    padding-top: 110px; // Отступ на высоту masthead
 //}
-
-.header-link {
-    //    padding: 110px 0 0;  // Отступ на высоту masthead
-    position: relative;
-    padding-top: 110px; // Отступ на высоту masthead
-}
-
-// Якорь
-//.anchor {
-//    position:absolute; 
-//    top:-110px;
-//}
-
 
 // Размер подписи 2 строки сайта, уменьшаем
 .site-subtitle {
