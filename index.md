@@ -6,7 +6,7 @@ layout: splash
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.30"
-  overlay_image: /assets/images/hands1 [problembo.com].jpg
+  overlay_image: /assets/images/overlay_image_1600.jpg
   actions:
     - label: "<i class='fas fa-database'></i> Переход к демо-версии"
       url: "https://demo.arctl.ru"
@@ -14,7 +14,7 @@ excerpt: >
   АРК: Транспортная логистика Online<br />
   <small>Программное решение для экспедиторов, перевозчиков и операторов</small>
 feature_row:
-  - image_path: /assets/images/tablet.jpg
+  - image_path: /assets/images/control.jpg
     alt: "customizable"
     title: "Control"
     excerpt: "Контролируй ключевые точки бизнес-процессов, держи руку на пульсе транспортной логистики."
