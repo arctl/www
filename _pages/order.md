@@ -9,7 +9,6 @@ classes:
 
 Пожалуйста, напишите нам если у вас есть вопросы.
 <br>
-<br>
 
 <script src="https://yastatic.net/q/forms-frontend-ext/_/embed.js"></script>
 <iframe 
