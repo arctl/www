@@ -9,9 +9,6 @@ search: false
 
 
 // Фиксированное меню
-// https://github.com/mmistakes/minimal-mistakes/issues/490
-// https://translated.turbopages.org/proxy_u/en-ru.ru.996fe2e6-66790356-55c6338a-74722d776562/https/www.w3schools.com/HOWTO/howto_js_sticky_header.asp
-// https://www.demo2s.com/html-css/css-fixed-navigation-inside-absolute-main-element.html
 .masthead {
     position: fixed;
     top: 0;
@@ -20,25 +17,16 @@ search: false
     background: white; 
 }
 
+// Высота контента
 .initial-content {
-    padding-top: 110px
+    margin-top: 110px
 }
 
-.page__content .header-link{
+// Высота второго заголовка
+.page__content h2 .header-link {
+    margin-top: 20px;
     display: block;
-    padding-top: 110px
 }
-
-// Тело
-//body {
-//    padding-top: 110px; // Отступ на высоту masthead
-//}
-
-//.page__content .header-link{
-//    display: block;    
-//    position: relative;     
-//    top: -150px;
-//}
 
 // Размер подписи 2 строки сайта, уменьшаем
 .site-subtitle {
