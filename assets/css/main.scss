@@ -30,16 +30,22 @@ body {
     padding-top: 110px; // Отступ на высоту masthead
 }
 
-.anchor {
-    position:absolute; 
-    top:-110px;
-}
-
 //.site { 
 //    padding-top: 110px; // Отступ на высоту masthead
 //}
 
-//размер подписи 2 строки сайта
+.header-link {
+    //    padding: 110px 0 0;  // Отступ на высоту masthead
+    padding-top: 110px; // Отступ на высоту masthead
+}
+
+// Якорь
+//.anchor {
+//    position:absolute; 
+//    top:-110px;
+//}
+
+// Размер подписи 2 строки сайта
 .site-subtitle {
     display: block;
     font-size: .400em;
