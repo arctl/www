@@ -16,13 +16,14 @@ author_profile: true
 | Место на диске | 10 Гб | 25 ГБ | 50 ГБ | 100 ГБ |
 | Количество пользователей | 10 | 25 | 50 | 100 |
 | **CRM** |
-| Лиды | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Лиды | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Контакты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Контрагенты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Договоры (+ согласование) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Дела | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Авто заполнение контрагентов ИНН, наименованию | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Авто заполнение адресов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Интеграция с сайтом | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Заявка** |
 | Настраиваемые шаблоны заявок | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Создание по шаблону, заготовке или произвольный вариант | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -91,6 +92,9 @@ author_profile: true
 | Выгрузка счетов-фактур клиентов | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Выгрузка неформализованных документов | :white_check_mark:| :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Пакетная выгрузка | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| **Интеграция с вашим сайтом** |
+| Создание лида | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Создание запроса | :white_check_mark: | Скоро | Скоро | Скоро |
 | **Интеграция с Контур.Логистика** |
 | Формирование электронной транспортной накладной | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Формирование электронных путевых листов | :white_check_mark: | :white_check_mark: | Скоро | Скоро |
