@@ -73,6 +73,8 @@ author_profile: true
 | Редактор отчетов | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
 | Аналитика в Excel (куб OLAP) | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро |
 | **Интеграция с ЭТРАН** |
+| + к Абонплате*  | 5.000 | 5.000  | 5.000 | 5.500 |
+| Дислокации | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  |
 | Заготовка | :white_check_mark: | :white_check_mark: | Скоро | Скоро  |
 | Накладная | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро  |
 | Сверка с ЕЛС | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро  |
@@ -108,3 +110,5 @@ author_profile: true
 | **Безопасность** |
 | Двухэтапная аутентификация | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Уведомление о входе (на почту) | :white_check_mark: | :white_check_mark: | Скоро | Скоро |
+
+* Требуется организация и сопровождение дополнительных инфраструктурных ресурсов
