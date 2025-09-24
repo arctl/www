@@ -73,11 +73,18 @@ author_profile: true
 | Редактор отчетов | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
 | Аналитика в Excel (куб OLAP) | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро |
 | **Интеграция с ЭТРАН** |
+<<<<<<< HEAD
 | + к Абонплате*  | 5.000 | 5.000  | 5.000 | 5.500 |
 | Дислокации | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  |
 | Заготовка | :white_check_mark: | :white_check_mark: | Скоро | Скоро  |
 | Накладная | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро  |
 | Сверка с ЕЛС | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро  |
+=======
+| Слежение | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Заготовка | :white_check_mark: | :white_check_mark: | Скоро | Скоро |
+| Накладная | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро |
+| Сверка с ЕЛС | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро |
+>>>>>>> 70edb49dec59e60c20f7ce28ec059a32a29feec5
 | **Интеграция с 1C** |
 | Загрузка счетов покупателей | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка реализаций (акты, УПД) | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
