@@ -37,16 +37,16 @@ author_profile: true
 | Фактические суммы для клиента | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Предварительные расходы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Расчет предварительной доходности | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
-| Акты / счета-фактуры поставщиков | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: |
-| Фактические расходы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: |
-| Счета на доплату | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark: |
+| Акты / счета-фактуры поставщиков | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |
+| Фактические расходы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |
+| Счета на доплату | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |
 | Акт / счет-фактура клиенту | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Расчет фактической доходности | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Платежи** |
 | Поступления от клиентов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Оплаты поставщикам | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Платежный календарь | :white_check_mark: | :white_check_mark: |:white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Акты сверок | :white_check_mark: | :white_check_mark: |:white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Платежный календарь | :white_check_mark: | :white_check_mark: |:white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Акты сверок | :white_check_mark: | :white_check_mark: |:white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Диспетчирование** |
 | Диспетчирование автоперевозок | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |
 | Контейнеры на станции | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |
