@@ -112,7 +112,7 @@ author_profile: true
 | Хранение вложений | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Отправка документов в формате PDF по эл. почте | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Формирование документов с факсимиле | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| ##Безопасность |
+| **Безопасность** |
 | Двухэтапная аутентификация | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Уведомление о входе (на почту) | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро | Скоро |
 
