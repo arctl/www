@@ -5,18 +5,18 @@ author_profile: true
 ---
 
 
-| Опция | Депо | Старт | Проект | Компания | Группа |
+| Опция | Старт | Депо | Проект | Компания | Группа |
 | --- | :----: | :----: | :----: | :----: | :----: |
 | **Стоимость** |
-| **Внедрение** (первые 3 месяца), руб./мес. | 15.000 | 15.000 | 22.500  | 45.000  | 65.625  |
+| **Внедрение** (первые 3 месяца), руб./мес. | 15.000 | 18.750 | 22.500  | 45.000  | 65.625  |
 | - настройка системы | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | - обучение администратора | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | - обучение пользователей | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| **Абонплата** (с 4-го месяца), руб./мес. | **12.000** | **12.000** | **18.000**  | **36.000** | **52.500**  |
+| **Абонплата** (с 4-го месяца), руб./мес. | **12.000** | **15.000** | **18.000**  | **36.000** | **52.500**  |
 | Место на диске | 10 Гб | 10 Гб | 25 ГБ | 50 ГБ | 100 ГБ |
 | Количество пользователей | 10 | 10 | 25 | 50 | 100 |
 | **CRM** |
-| Лиды | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Лиды | :heavy_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Контакты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Контрагенты | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Договоры (+ согласование) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -43,8 +43,8 @@ author_profile: true
 | Акт / счет-фактура клиенту | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Расчет фактической доходности | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Платежи** |
-| Поступления от клиентов | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Оплаты поставщикам | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Поступления от клиентов | :heavy_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Оплаты поставщикам | :heavy_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Платежный календарь | :white_check_mark: | :white_check_mark: |:white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Акты сверок | :white_check_mark: | :white_check_mark: |:white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Диспетчирование** |
@@ -61,10 +61,10 @@ author_profile: true
 | Загрузка отчетных документов (акты, счета-фактуры, УПД) | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка сканов сопутствующих документов по перевозке | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Депо** |
-| Прием / выдача контейнеров | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
-| Биллинг хранения | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
-| Рапорт в формате CODECO | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
-| Личный кабинет | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
+| Прием / выдача контейнеров | :white_check_mark: | :heavy_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
+| Биллинг хранения | :white_check_mark: | :heavy_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
+| Рапорт в формате CODECO | :white_check_mark: | :heavy_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
+| Личный кабинет | :white_check_mark: | :heavy_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: |
 | **Аналитика** |
 | Финансовый отчет | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Дебиторская задолженность | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -101,10 +101,10 @@ author_profile: true
 | Формирование электронной транспортной накладной | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Формирование электронных путевых листов | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро | Скоро |
 | **Интеграция с Telegram** |
-| Рассылка клиентам по событиям перевозки | 
+| Рассылка клиентам по событиям перевозки | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | **Интеграция с E-mail** |
-| Рассылка клиентам по событиям перевозки (Timeline) |
-| Отправка писем с собственного домена |
+| Рассылка клиентам по событиям перевозки (Timeline) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Отправка писем с собственного домена | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | **Дислокации** |
 | Загрузка операций с транс. единицами | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Загрузка отправок | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро | Скоро |
@@ -112,7 +112,7 @@ author_profile: true
 | Хранение вложений | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Отправка документов в формате PDF по эл. почте | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Формирование документов с факсимиле | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| **Безопасность** |
+| ##Безопасность |
 | Двухэтапная аутентификация | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Уведомление о входе (на почту) | :white_check_mark: | :white_check_mark: | :white_check_mark: | Скоро | Скоро |
 
